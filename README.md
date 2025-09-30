@@ -1,7 +1,10 @@
-## A3 Heuristics rýni — verkefnasniðmát (HBV101G)
+## Þetta er sýnidæmi fyrir lausn að verkefni A3, hópur 0 
 
-Þetta repository er sniðmát fyrir Nielsen heuristics rýni (5–7 einfaldaðir flokkar) sem er framkvæmt í 2 - 3 manna hópum.
-Allt fer fram á GitHub: issues, labels og Project board.
+Eftirfarandi nemendur eru í hópnum: Ebba Þóra Hvannberg
+
+Vefsíðan sem var valin til að rýna er http://xxxx.xxx 
+
+Sjá nánar skrárnar í þessu safni, Issues og verkefnið sem fylgir [https://github.com/users/Hvannberg/projects/15]
 
 
 ### Skref 1. Stofnið reikning á github.com 
